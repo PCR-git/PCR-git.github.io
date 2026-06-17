@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Peter Racioppo</title>
+</head>
+<body>
+    <h1>Peter Racioppo</h1>
+
+    <p>ICML 2026 Spotlight Author</p>
+
+    <h2>Links</h2>
+
+    <ul>
+        <li><a href="https://arxiv.org/abs/2509.04154">Paper</a></li>
+        <li><a href="https://github.com/PCR-git">GitHub</a></li>
+        <li><a href="www.linkedin.com/in/peter-racioppo">LinkedIn</a></li>
+    </ul>
+
+    <h2>Research Interests</h2>
+
+    <p>
+        Transformer architectures,
+        state-space models,
+        sequence modeling.
+    </p>
+</body>
+</html>
